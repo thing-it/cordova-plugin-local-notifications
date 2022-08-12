@@ -121,7 +121,7 @@ public final class Manager {
 
         channel = new NotificationChannel(
                 CHANNEL_ID, CHANNEL_NAME, IMPORTANCE_DEFAULT);
-
+        channel.setShowBadge(false);
         mgr.createNotificationChannel(channel);
     }
 
