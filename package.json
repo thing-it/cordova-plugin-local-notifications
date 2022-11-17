@@ -1,6 +1,6 @@
 {
   "name": "@thing-it/cordova-plugin-local-notification",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Schedules and queries for local notifications",
   "cordova": {
     "id": "cordova-plugin-local-notification",
